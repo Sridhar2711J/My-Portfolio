@@ -21,7 +21,7 @@ I am Sridhar J, a passionate web developer skilled in HTML, CSS, JavaScript, and
 
 ## How to View
 You can view the live portfolio at:  
-[https://your-username.github.io/portfolio/](https://your-username.github.io/portfolio/)
+[https://sridharj.netlify.app/]
 
 ## How to Run Locally
 1. Clone the repository:  
